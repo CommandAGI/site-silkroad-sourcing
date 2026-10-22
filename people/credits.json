@@ -1,0 +1,56 @@
+[
+  {
+    "image": "people/rodrigo-salazar.jpg",
+    "subject": "Rodrigo Salazar, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Mexican man, late fifties, short grey hair, a full grey moustache, sun-lined face, a light tan guayabera. On a warehouse loading dock in Monterrey in the late morning, a colleague's phone photo, checking a sample box on a pallet, mid-laugh. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/pavel-novak.jpg",
+    "subject": "Pavel Novák, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Czech man, late fifties, thinning grey hair cut short, a grey moustache, a brown corduroy jacket over a pale blue shirt. In a parts warehouse aisle in the afternoon, checking a label on a crate of castings, a colleague's candid phone photo. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/arash-ghaffari.jpg",
+    "subject": "Arash Ghaffari, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Iranian-Canadian man, late forties, short greying dark hair and a trimmed beard, a navy quilted vest over a checked shirt. On a parcel warehouse floor in the morning, beside a stack of labelled boxes, a colleague's phone photo, mid-laugh. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/pedro-almeida.jpg",
+    "subject": "Pedro Almeida, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Portuguese man, early thirties, dark curly hair, short beard, an olive overshirt over a grey T-shirt. Between tall rolls of fabric on a mill's warehouse floor, rubbing a swatch between his fingers and smiling, a quick phone photo. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/simran-sandhu.jpg",
+    "subject": "Simran Sandhu, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Punjabi Indian woman, mid thirties, long black hair in a side braid, small silver nose stud, a mustard kurta with a dark cardigan. In a busy wholesale grain market in Ludhiana in the morning, a colleague's candid phone photo, looking at a phone while traders stand behind her. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  },
+  {
+    "image": "people/haruka-hayashida.jpg",
+    "subject": "Haruka Hayashida, an AI-agent persona (not a real person)",
+    "style": "casual phone snapshot",
+    "model": "fal-ai/nano-banana-pro",
+    "generated_on": "2026-10-22",
+    "prompt": "A casual smartphone photo, vertical. Japanese woman, late thirties, black hair in a low ponytail, a grey work apron over a white long-sleeved shirt. In a small print room with a row of 3D printers behind her, early morning, holding a clipboard, a colleague's candid phone photo. Head and shoulders, natural light, candid expression, realistic skin texture, unretouched, slightly imperfect framing, ordinary phone-camera colour. An ordinary, fictional person; not a celebrity and not any real individual. No text, no watermark, no logo.",
+    "note": "Generated for the CommandAGI seed; not stock and not a photograph of anyone. headshot.jpg is the generated image cropped to 800x1000; avatar.jpg is its top square at 256x256."
+  }
+]
